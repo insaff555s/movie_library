@@ -27,4 +27,4 @@ GUI-приложение для хранения информации о фил�
 python3 test_movie.py
 
 ## Ссылка на репозиторий
-https://github.com/insaff555s/movie-library
+https://github.com/insaff555s/movie_library
